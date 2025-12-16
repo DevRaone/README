@@ -36,7 +36,7 @@ Script em Python para varredura de portas TCP, identificação de serviços ativ
 - **Tecnologias:** Python, Socket Programming, Network Protocols
 - **Features:** Scanning automatizado, relatório de portas abertas
 
-### [🌐 Personal Security Portfolio](https://devraone.github.io/Portf-lio_~Raone/)
+### [🌐 Personal Security Portfolio](https://devraone.github.io/Portf-lio_-Raone/)
 Website responsivo para showcase de projetos de cibersegurança.
 - **Tecnologias:** HTML5, CSS3, JavaScript
 - **Features:** Design responsivo, apresentação profissional de skills
